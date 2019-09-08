@@ -1,0 +1,15 @@
+The requirements for the assignment are as follows:
+
+1) Create a main class and a database class
+
+2) Collect 5 random numbers from the user (keyboard) in the main class and store in an array. (not in ascending or descending order)
+
+3) Create an instance of the database class in your main class and store the numbers array in the database using its constructor.
+
+4) In the Database class, create a method that performs a bubble sort and returns a sorted array of the data (ascending and descending). Call this method from the main class and print the result to the screen.
+
+5) In the Database class, create methods that each return the min, average, and max respectively. Call each of them from the main class and print the result to the screen.
+
+6) In the Database class, create a method that searches for a value in the array using a binary search (example in the Assignment 2 folder) and returns the index of that value. Call this method from the main class and print the result to the screen.
+
+Submit two source code files (.java files). One for the main class and one for the database class.
