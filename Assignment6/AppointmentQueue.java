@@ -101,7 +101,7 @@ public class AppointmentQueue {
         System.out.println("front: " + front);
         System.out.println("capacity: " + capacity);
         for (int i = front; i < front + size; i++) {
-            System.out.println(appointments[i].toString());
+            System.out.println(appointments[i]);
         }
         System.out.println("finished\n\n");
     }
